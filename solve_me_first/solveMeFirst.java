@@ -1,5 +1,3 @@
-package solve_me_first;
-
 import java.util.*;
 
 /**
