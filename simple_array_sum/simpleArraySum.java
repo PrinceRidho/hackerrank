@@ -1,4 +1,3 @@
-package simple_array_sum;
 // Attention, delete this line if you do not put this file into a folder with the same name as the folder / package name above
 
 import java.util.Scanner;
